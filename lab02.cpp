@@ -19,7 +19,7 @@ class MyClass {
   /**
    * @brief Constructor for MyClass
    *
-   * This constructor initializes the object of MyClass.
+   * This constructor the object of MyClass.
    */
   MyClass();
 
